@@ -1,4 +1,4 @@
-Machine and Deep Learning Analysis on predicting the variety of rice based on grain information.
+Machine and Deep Learning Analysis on Dementia Prediction based on patient and MRI information
 
 ---
 
